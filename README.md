@@ -1,4 +1,6 @@
-"# Nagy Enikő - IKZ9P3 - Intellingens fejlesztő környezetek - féléves beadandó - hangfájlok klasszifikációja konvolúciós neurális hálózatok segítségével Python nyelv használatával" 
+# Nagy Enikő - IKZ9P3 - Intellingens fejlesztő környezetek - féléves beadandó - hangfájlok klasszifikációja konvolúciós neurális hálózatok segítségével Python nyelv használatával
+
+### Prerequisites
 
 Conda függőségek elérhetőek az environment.txt fájlban
 
@@ -10,6 +12,7 @@ $source activate newenv
 "https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html?highlight=environment"
 
 Valamint telepíteni kell az ffmpeg-et is:
+
 $sudo apt-get update
 $sudo apt-get install ffmpeg
   
